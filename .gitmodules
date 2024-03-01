@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "lfe"]
-	path = lfe
-	url = https://github.com/matthieustigler/lfe
 [submodule "partsm"]
 	path = partsm
 	url = https://github.com/matthieustigler/partsm
