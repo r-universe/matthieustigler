@@ -9,4 +9,3 @@
 [submodule "tsDyn"]
 	path = tsDyn
 	url = https://github.com/matthieustigler/tsdyn
-	subdir = tsDyn
