@@ -6,3 +6,6 @@
 	path = partsm
 	url = https://github.com/matthieustigler/partsm
 	subdir = partsm
+[submodule "tsDyn"]
+	path = tsDyn
+	url = https://github.com/matthieustigler/tsdyn
